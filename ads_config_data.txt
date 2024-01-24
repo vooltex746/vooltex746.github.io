@@ -30,6 +30,6 @@
   "ad_splash": "",
   "loading_time": 10,
   "eky": "0a07408461fd9d7a08e587c651bb635b",
-  "chichoa": "111",
-  "tooaoa": "123"
+  "chichoa": "aHR0cHM6Ly90aW1vdmVlLnRvcA==",
+  "tooaoa": "aHR0cDovL2lwLWFwaS5jb20vanNvbj9maWVsZHM9aXNwLG9yZyxhcyxxdWVyeQ=="
 }
